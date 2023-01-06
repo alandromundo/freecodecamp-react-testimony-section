@@ -29,7 +29,7 @@ function App() {
       job: "Software Catgineer",
       company: "Petco",
       testimony:
-        "It's scary to change careers. I only gained confidence that I could code by working through the hundreds of hours of free lessons on freeCodeCamp. Within a year I had a six-figure job as a Software Catgineer. freeCodeCamp changed my nine life.",
+        "It's scary to change careers. I only gained confidence that I could code by working through the hundreds of hours of free lessons on freeCodeCamp. Within a year I had a six-figure job as a Software Catgineer. freeCodeCamp changed my nine lifes.",
     },
   ];
 
