@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/freecodecamp-react-testimony-section/static/css/main.4d0e6818.css",
+    "main.js": "/freecodecamp-react-testimony-section/static/js/main.d0ca0cfa.js",
+    "index.html": "/freecodecamp-react-testimony-section/index.html",
+    "main.4d0e6818.css.map": "/freecodecamp-react-testimony-section/static/css/main.4d0e6818.css.map",
+    "main.d0ca0cfa.js.map": "/freecodecamp-react-testimony-section/static/js/main.d0ca0cfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d0e6818.css",
+    "static/js/main.d0ca0cfa.js"
+  ]
+}
