@@ -1,6 +1,6 @@
 # Testimonial Section
 
-This is a responsive testimonial section built with React, CSS and some JavaScript.
+This is a responsive testimonial section built with React, CSS and some JavaScript. Here is the GitHub page: https://alandromundo.github.io/freecodecamp-react-testimony-section/
 
 The reference to built this project was the testimonial section of freeCodeCamp, available to check out here: https://www.freecodecamp.org.
 
